@@ -13,7 +13,7 @@ pip install -r ./requirements.txt
 2. Download SFT model
 
 ```bash
-python3 src/scripts/download_model.py
+python3 src/scripts/download_models.py
 ```
 
 ## Implementation
