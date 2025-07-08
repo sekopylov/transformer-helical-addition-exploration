@@ -4,8 +4,6 @@
 
 1. Install dependencies
 
-You can run this code using colab without installing any dependencies
-
 ```bash
 pip install -r ./requirements.txt
 ```
